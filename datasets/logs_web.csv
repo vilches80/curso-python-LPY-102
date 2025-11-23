@@ -1,0 +1,7 @@
+timestamp,ip,endpoint,status,response_time_ms,method,user_agent
+2024-01-01T10:01:11,192.168.1.10,/api/login,200,123,POST,Chrome
+2024-01-01T10:01:23,192.168.1.11,/api/data,200,210,GET,Firefox
+2024-01-01T10:02:05,192.168.1.10,/api/data,500,980,GET,Chrome
+2024-01-01T10:02:33,192.168.1.20,/api/logout,200,150,POST,Edge
+2024-01-01T10:03:02,192.168.1.11,/api/data,200,215,GET,Firefox
+2024-01-01T10:03:40,192.168.1.30,/api/login,403,90,POST,Safari
