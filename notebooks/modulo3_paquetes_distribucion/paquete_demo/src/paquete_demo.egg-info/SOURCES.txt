@@ -1,0 +1,8 @@
+pyproject.toml
+src/paquete_demo/__init__.py
+src/paquete_demo/saludos.py
+src/paquete_demo.egg-info/PKG-INFO
+src/paquete_demo.egg-info/SOURCES.txt
+src/paquete_demo.egg-info/dependency_links.txt
+src/paquete_demo.egg-info/entry_points.txt
+src/paquete_demo.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+pyproject.toml
+src/mi_lib/__init__.py
+src/mi_lib/operaciones.py
+src/mi_lib/texto.py
+src/mi_lib.egg-info/PKG-INFO
+src/mi_lib.egg-info/SOURCES.txt
+src/mi_lib.egg-info/dependency_links.txt
+src/mi_lib.egg-info/entry_points.txt
+src/mi_lib.egg-info/top_level.txt
