@@ -1,0 +1,9 @@
+id,producto,precio,cantidad,fecha,region
+1,Manzanas,2.5,10,2025-10-01,Centro
+2,Naranjas,3.0,5,2025-10-01,Este
+3,Plátanos,1.8,20,2025-10-01,Oeste
+1,Manzanas,2.5,7,2025-10-02,Centro
+3,Plátanos,1.8,12,2025-10-02,Norte
+2,Naranjas,3.0,15,2025-10-03,Sur
+1,Manzanas,2.5,9,2025-10-03,Centro
+4,Peras,2.2,6,2025-10-03,Este

@@ -1,0 +1,74 @@
+
+- id: 1
+
+  producto: Manzanas
+
+  precio: 2.5
+
+  cantidad: 10
+
+  fecha: "2025-10-01"
+
+  region: Centro
+
+- id: 2
+
+  producto: Naranjas
+
+  precio: 3.0
+
+  cantidad: 5
+
+  fecha: "2025-10-01"
+
+  region: Este
+
+- id: 3
+
+  producto: Plátanos
+
+  precio: 1.8
+
+  cantidad: 20
+
+  fecha: "2025-10-01"
+
+  region: Oeste
+
+- id: 1
+
+  producto: Manzanas
+
+  precio: 2.5
+
+  cantidad: 7
+
+  fecha: "2025-10-02"
+
+  region: Centro
+
+- id: 3
+
+  producto: Plátanos
+
+  precio: 1.8
+
+  cantidad: 12
+
+  fecha: "2025-10-02"
+
+  region: Norte
+
+- id: 2
+
+  producto: Naranjas
+
+  precio: 3.0
+
+  cantidad: 15
+
+  fecha: "2025-10-03"
+
+  region: Sur
+
+
